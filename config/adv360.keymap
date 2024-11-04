@@ -81,8 +81,8 @@
         layer_Mac_Korean {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                             &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &kp RG(C)                                                             &tog 4  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &kp RG(V)  &trans  &trans                  &trans  &trans  &kp LG(LC(SPACE))  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &kp LG(C)                                                             &tog 4  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &kp LG(V)  &trans  &trans                  &trans  &trans  &kp LG(LC(SPACE))  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                               &trans                  &trans                             &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans                       &trans  &trans  &trans                  &trans  &trans             &trans          &trans  &trans  &trans  &trans  &trans
             >;
